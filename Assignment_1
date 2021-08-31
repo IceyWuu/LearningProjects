@@ -1,4 +1,6 @@
 import torch
+
+#Creating and accessing tensors
 c = None
 ################################################################################
 # TODO: Construct a tensor c filled with all zeros, initializing from nested   #
